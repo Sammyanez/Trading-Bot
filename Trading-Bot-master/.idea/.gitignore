@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../Trading_Bot_ Real\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Sammy\IdeaProjects\Trading_Bot_ Real\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
